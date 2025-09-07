@@ -9,11 +9,11 @@ import { FaDev, FaDatabase } from "react-icons/fa";
 const personalDetails = [
   {
     label: "Name",
-    value: "John Doe",
+    value: "BISWABEDANT SINGH",
   },
   {
     label: "Age",
-    value: "27",
+    value: "22",
   },
   {
     label: "Address",
@@ -21,16 +21,16 @@ const personalDetails = [
   },
   {
     label: "Email",
-    value: "demo@example.com",
+    value: "biswabedantsingh001@gmail.com",
   },
   {
     label: "Contact No",
-    value: "+11 3456789056",
+    value: "+91-8917690209",
   },
 ];
 
 const jobSummary =
-  "Seasoned and independent Front End Developer with 5 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging. Very passionate about aesthetics and UI design. It is imperative that you provide a thorough and professional approach to your resume. As a Front End Developer you will be judged by your ability to use UX and UI concepts and follow design guidelines. It is about expressing your attention to detail and how you can help implement design ideas for your future employer";
+  "Computer Science student, with strong programming skills in Java, Python, and C++ Proficient in developing efficient code, solving complex problems, and buildinginteractive software solutions. Passionate about software development and eager tocontribute toinnovative tech projects with a solid foundation in data structures,algorithms, and object-oriented programming.";
 
 const About = () => {
   return (
@@ -52,7 +52,7 @@ const About = () => {
               transform: "translatex(0px)",
             }}
           >
-            <h3>Front End Developer</h3>
+            <h3>Full Stack Developer</h3>
             <p>{jobSummary}</p>
           </Animate>
 

@@ -7,7 +7,7 @@
     width: 100%;
     padding: 20px;
 
-    &__experience, &__education{
+     &__education{
         width: 50%;
         gap: 2rem;
         display: flex;
@@ -89,7 +89,7 @@
 @media only screen and (max-width : 768px){
     .timeline{
         flex-direction: column;
-        &__experience, &__education{
+         &__education{
             width: 100%;
             gap: 2rem;
         }

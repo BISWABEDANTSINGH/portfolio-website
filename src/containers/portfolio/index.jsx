@@ -14,7 +14,7 @@ const portfolioData = [
     id: 2,
     name: "Ecommerce",
     image: ImageOne,
-    link: "",
+    link: "https://www.flipkart.com/clothing-and-accessories/pr?sid=clo",
   },
   {
     id: 3,
